@@ -1,2 +1,2 @@
 # ERB-BSPD
-ERB BSPD Circuit and PCB
+BSPD Circuit and PCB by E-Racing Bergamo 
