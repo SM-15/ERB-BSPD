@@ -1,0 +1,22 @@
+hyperlinks per parassiti
+
+orca per circuiti
+
+trigger anzichè mos A1 (ntc)
+
+MIRKO.IMBERTI@EUTRON.IT
+
+power
+in chiusura rimane saldato se c'è sovratensione, combatte con ntc
+se assorbimento elevato e apro, allora si ionizza gas e aria nel relè e diventa ammasso, usare relè specifici
+parte induttiva motore
+non deve avere nulla in serie perchè altrimenti ha perdite
+
+relè scarica, più facile
+
+soddominsionare r1...r4 solo se si è sicuri che il carico ci sia per pochi istanti
+usare ptc anzichè resistenze perchè se c'è carico aumenta la resistenza
+
+determinare temp carica-scarica
+corrente di fuga su c1
+circuito sicurezza impedire carica-pressione accelleratore
