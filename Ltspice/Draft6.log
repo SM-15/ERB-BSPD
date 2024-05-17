@@ -1,6 +1,6 @@
 LTspice 24.0.9 for Windows
 Circuit: * C:\Users\fedec\Documents\GitHub\Bspd\ERB-BSPD\Ltspice\Draft6.asc
-Start Time: Wed May 15 21:47:03 2024
+Start Time: Wed May 15 21:57:39 2024
 Warning: Multiple definitions of model "2scr375p" Type: BJT
 Warning: Multiple definitions of model "bc857b" Type: BJT
 Warning: Multiple definitions of model "bc847c" Type: BJT
@@ -41,5 +41,5 @@ vernier = 0.000488281
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.538 seconds.
+Total elapsed time: 0.599 seconds.
 
