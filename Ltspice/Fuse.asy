@@ -1,0 +1,11 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 0 -32 0 -25
+LINE Normal 0 32 0 24
+LINE Normal 0 32 0 -25
+RECTANGLE Normal 10 24 -10 -25
+SYMATTR Prefix F
+PIN 0 -32 NONE 8
+PINATTR SpiceOrder 1
+PIN 0 32 NONE 8
+PINATTR SpiceOrder 2
